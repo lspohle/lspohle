@@ -11,4 +11,14 @@
 | 0      | [Libft](https://github.com/lspohle/libft)   |Creating your own library   | C        |✅      | 125 % |
 | 1      | [Printf](https://github.com/lspohle/ft_printf)  |Coding your own printf      | C        |✅      | 104 % |
 
+## Internship
 
+| Project       |         Brief description      | Language | Status |
+|:-------------:|:------------------------------:|:--------:|:------:|
+|[ATM](https://github.com/lspohle/atm)            |Coding an atm object oriented   | C#       |✅      |
+
+## Personal interest
+
+| Project       |         Brief description      | Language | Status |
+|:-------------:|:------------------------------:|:--------:|:------:|
+|[Words generator](https://github.com/lspohle/random_words_generator)|Coding a random words generator | C        |✅      |
