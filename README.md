@@ -14,5 +14,5 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ewsp9ctfadk
 " target="_blank"><img src="http://img.youtube.com/vi/ewsp9ctfadk/0.jpg" 
-alt="Meet the Pisciners of 42 Wolfsburg: Lea" width="480" height="360" /></a>
+alt="Meet the Pisciners of 42 Wolfsburg: Lea" width="48%" height="36%" /></a>
 
