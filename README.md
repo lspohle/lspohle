@@ -13,9 +13,9 @@
 
 ## Internship
 
-| Project       |         Brief description      | Language | Status |
-|:-------------:|:------------------------------:|:--------:|:------:|
-|[ATM](https://github.com/lspohle/atm)            |Coding an atm object oriented   | C#       |✅      |
+| Company | Project       |         Brief description      | Language | Status |
+|:-------:|:-------------:|:------------------------------:|:--------:|:------:|
+|[GRIMME](https://grimme.com/de)   |[ATM](https://github.com/lspohle/atm)            |Coding an atm object oriented   | C#       |✅      |
 
 ## Personal interest
 
