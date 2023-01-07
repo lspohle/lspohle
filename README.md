@@ -21,4 +21,5 @@
 
 | Project       |         Brief description      | Language | Status |
 |:-------------:|:------------------------------:|:--------:|:------:|
-|[Words generator](https://github.com/lspohle/random_words_generator)|Coding a random words generator | C        |✅      |
+|[RWG](https://github.com/lspohle/random_words_generator)|A random words generator | C        |✅      |
+|[Testernette](https://github.com/lspohle/42_testernette)|A test program for 42 projects | C        |✅      |
