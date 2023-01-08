@@ -1,6 +1,6 @@
 # About me
 
-## The Piscine in [2022](https://de.linkedin.com/posts/42wolfsburg_meet-the-pisciners-of-42-wolfsburg-lea-activity-7001888943784787968-BH_N)
+## My experience in the Piscine in [2022](https://de.linkedin.com/posts/42wolfsburg_meet-the-pisciners-of-42-wolfsburg-lea-activity-7001888943784787968-BH_N)
 
 ## Core Curriculum at [42 Wolfsburg](https://42wolfsburg.de/)
 
