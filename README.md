@@ -21,5 +21,6 @@
 
 | Project       |         Brief description      | Language | Status |
 |:-------------:|:------------------------------:|:--------:|:------:|
-|[RWG](https://github.com/lspohle/random_words_generator)|A random words generator | C        |✅      |
-|[Testernette](https://github.com/lspohle/42_testernette)|A test program for 42 projects | C        |✅      |
+|[RWG](https://github.com/lspohle/random_words_generator)|Your random words generator | C        |✅      |
+|[RPS](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        |✅      |
+|[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects | C        |✅      |
