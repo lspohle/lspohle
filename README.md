@@ -8,19 +8,19 @@
 
 | Circle | Project |         Brief description  | Language | OS | Status | Score |
 |:------:|:-------:|:--------------------------:|:--------:|:--:|:------:|:-----:|
-| 0      | [Libft](https://github.com/lspohle/libft)   |Creating your own library   | C        | iOS| ✅      | 125 % |
-| 1      | [Printf](https://github.com/lspohle/ft_printf)  |Coding your own printf      | C        | iOS|✅      | 104 % |
+| 0      | [Libft](https://github.com/lspohle/libft)   |Creating your own library   | C        | macOS| ✅      | 125 % |
+| 1      | [Printf](https://github.com/lspohle/ft_printf)  |Coding your own printf      | C        | macOS|✅      | 104 % |
 
 ## Internship
 
 | Company | Project       |         Brief description      | Language | OS |  Status |
 |:-------:|:-------------:|:------------------------------:|:--------:|:--:|:------:|
-|[GRIMME](https://grimme.com/de)   |[ATM](https://github.com/lspohle/atm)            |Coding an atm object oriented   | C#       | iOS|✅      |
+|[GRIMME](https://grimme.com/de)   |[ATM](https://github.com/lspohle/atm)            |Coding an atm object oriented   | C#       | macOS|✅      |
 
 ## Personal interest
 
 | Project       |         Brief description      | Language | OS |  Status |
 |:-------------:|:------------------------------:|:--------:|:--:|:------:|
-|[RWG](https://github.com/lspohle/random_words_generator)|Your random words generator | C        | iOS|✅      |
-|[RPS](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        | iOS|✅      |
-|[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects | C        | iOS|✅      |
+|[RWG](https://github.com/lspohle/random_words_generator)|Your random words generator | C        | macOS|✅      |
+|[RPS](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        | macOS|✅      |
+|[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects | C        | macOS|✅      |
