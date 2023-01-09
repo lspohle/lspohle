@@ -9,7 +9,7 @@
 | Circle | Project |         Brief description  | `git clone` with SSH Key | Language | OS | Score   |Status |
 |:------:|:-------:|:--------------------------:|:--------:|:--------:|:--:|:------:|:-----:|
 | 0      | [Libft](https://github.com/lspohle/libft)   | Creating your own library   |`git@github.com:lspohle/42_libft.git`| C        | macOS|125 %  |  ✅|
-| 1      | [Printf](https://github.com/lspohle/ft_printf)  |Coding your own printf      |`git@github.com:lspohle/42_printf.git`| C        | macOS|104 %    |  ✅|
+| 1      | [Printf](https://github.com/lspohle/ft_printf)  |Coding your own printf      |`git@github.com:lspohle/42_printf.git`| C        | macOS|104 %      |  ✅|
 
 ## Internship
 
