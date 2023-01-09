@@ -23,5 +23,5 @@
 |:-------------:|:------------------------------:|:--------:|:--------:|:--:|:------:|
 |[RWG](https://github.com/lspohle/random_words_generator)|Your random words generator | `git@github.com:lspohle/PRIVATE_rwg.git`| C        | macOS|✅      |
 |[RPS](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors |`git@github.com:lspohle/PRIVATE_rps.git`| C        | macOS|✅      |
-|[Your safety](https://github.com/lspohle/PRIVATE_password)|Your personal password generator |`git@github.com:lspohle/PRIVATE_password.git`| C        | macOS|✅      |
+|[YOUR password, YOUR choice](https://github.com/lspohle/PRIVATE_password)|Your personal password generator |`git@github.com:lspohle/PRIVATE_password.git`| C        | macOS|✅      |
 |[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects |`git@github.com:lspohle/PRIVATE_testernette_42.git`| C        | macOS|✅      |
