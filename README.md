@@ -28,4 +28,4 @@
 |[Rock Paper Scissors](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        | macOS|✅      |
 |[Password Generator](https://github.com/lspohle/PRIVATE_password)|Your personal password generator |C        | macOS|✅     |
 |[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects | C        | macOS|✅     |
-|[A little Valentine]()|Your 2D game for Valentine's Day|C|macOS|
+|[A little Valentine](https://github.com/lspohle/PRIVATE_a_little_valentine)|Your 2D game for Valentine's Day|C|macOS|✅ |
