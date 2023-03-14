@@ -12,7 +12,7 @@
 | 1      | [Printf](https://github.com/lspohle/ft_printf)  |Coding your own printf | C        | macOS| ✅|
 | 1      | [Get_Next_Line](https://github.com/lspohle/42_get_next_line/tree/main)  |Reading from a file descriptor   | C        | macOS| ✅|
 | 1      | [Born2BeRoot](https://github.com/lspohle/42_born2beroot)  |Creating your own virtual machine      | C        | macOS| ✅|
-|2       | [So_long]()| Creating your 2D Game| C | macOS|
+|2       | [So_long](https://github.com/lspohle/42_so_long)| Creating your own 2D Game| C | macOS|✅|
 
 ## Internship
 
@@ -28,4 +28,3 @@
 |[Rock Paper Scissors](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        | macOS|✅      |
 |[Password Generator](https://github.com/lspohle/PRIVATE_password)|Your personal password generator |C        | macOS|✅     |
 |[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects | C        | macOS|✅     |
-|[A little Valentine](https://github.com/lspohle/PRIVATE_a_little_valentine)|Your 2D game for Valentine's Day|C|macOS|✅ |
