@@ -14,7 +14,7 @@
 | 1      | [Born2BeRoot](https://github.com/lspohle/42_born2beroot)  |Creating your own virtual machine      | C        | macOS| ✅|
 |2       | [So_Long](https://github.com/lspohle/42_so_long)| Creating your own 2D Game| C | macOS|✅|
 |2       | [Pipex](https://github.com/lspohle/42_pipex)| Handling pipes | C | macOS |✅|
-|2       | [Push_Swap]| Writing a sorting algorithm | C | macOS | |
+|2       | [Push_Swap]()| Writing a sorting algorithm | C | macOS | |
 
 ## Internship
 
