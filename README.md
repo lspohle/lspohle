@@ -15,6 +15,7 @@
 |2       | [So_Long](https://github.com/lspohle/42_so_long)| Creating your own 2D Game| C | macOS|✅|
 |2       | [Pipex](https://github.com/lspohle/42_pipex)| Handling pipes | C | macOS |✅|
 |2       | [Push_Swap](https://github.com/lspohle/42_push_swap)| Writing a sorting algorithm | C | macOS |✅|
+|3       | [Minishell](https://github.com/cschm1ed/minishell)| Writing our own shell | C | macOS ||
 
 ## Internship
 
