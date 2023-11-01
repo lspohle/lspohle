@@ -4,8 +4,6 @@
 
 ## Core Curriculum at [42 Wolfsburg](https://42wolfsburg.de/)
 
-[![lspohle's 42 stats](https://badge42.vercel.app/api/v2/clc39o9vg00590flgbemnvaab/stats?cursusId=21&coalitionId=150)](https://github.com/JaeSeoKim/badge42) 
-
 | Circle | Project |  Brief description         | Language | OS       | Status |
 |:------:|:-------:|:--------------------------:|:--------:|:--------:|:------:|
 | 0      | [Libft](https://github.com/lspohle/libft)   | Creating your own library | C        | macOS| ✅|
