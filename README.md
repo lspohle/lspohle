@@ -25,7 +25,8 @@
 
 | Project       |         Brief description      | Language | OS |  Status |
 |:-------------:|:------------------------------:|:--------:|:--------:|:--:|
-|[Random Words Generator](https://github.com/lspohle/random_words_generator)|Your random words generator |  C        | macOS|✅|
+|[Sudoku Solver](https://github.com/lspohle/PRIVATE_sudoku_solver)|Your significant other to solve Sudokus |  C++        | macOS|✅|
+|[Random Words Generator](https://github.com/lspohle/PRIVATE_rwg)|Your random words generator |  C        | macOS|✅|
 |[Rock Paper Scissors](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        | macOS|✅      |
 |[Password Generator](https://github.com/lspohle/PRIVATE_password)|Your personal password generator |C        | macOS|✅     |
-|[Testernette](https://github.com/lspohle/42_testernette)|Your test program for 42 projects | C        | macOS|✅     |
+|[Testernette](https://github.com/lspohle/PRIVATE_42_testernette)|Your test program for 42 projects | C        | macOS|✅     |
