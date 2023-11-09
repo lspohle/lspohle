@@ -19,7 +19,7 @@
 
 | Company | Project       |         Brief description      |  Language | OS |  Status |
 |:-------:|:-------------:|:------------------------------:|:--------:|:--------:|:--:|
-|[GRIMME](https://grimme.com/de)   |[ATM](https://github.com/lspohle/atm)            |Coding an atm object oriented   | C#       | macOS|✅ |
+|[GRIMME](https://grimme.com/de)   |[ATM](https://github.com/lspohle/atm)            |Coding an ATM object oriented   | C#       | macOS|✅ |
 
 ## Personal interest
 
