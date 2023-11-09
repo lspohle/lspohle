@@ -25,8 +25,9 @@
 
 | Project       |         Brief description      | Language | OS |  Status |
 |:-------------:|:------------------------------:|:--------:|:--------:|:--:|
-|[Sudoku Solver](https://github.com/lspohle/PRIVATE_sudoku_solver)|Your significant other to solve Sudokus |  C++        | macOS|✅|
+|[Sudoku Solver](https://github.com/lspohle/PRIVATE_sudoku_solver)|Solve your Sudokus |  C++        | macOS|✅|
+|[Typing Assessment](https://github.com/lspohle/PRIVATE_typing_assessment)|Test your typing skills |  C++        | macOS|✅|
 |[Random Words Generator](https://github.com/lspohle/PRIVATE_rwg)|Your random words generator |  C        | macOS|✅|
-|[Rock Paper Scissors](https://github.com/lspohle/PRIVATE_rps)|Your competition for Rock, Paper, Scissors | C        | macOS|✅      |
-|[Password Generator](https://github.com/lspohle/PRIVATE_password)|Your personal password generator |C        | macOS|✅     |
-|[Testernette](https://github.com/lspohle/PRIVATE_testernette_42)|Your test program for 42 projects | C        | macOS|✅     |
+|[Rock Paper Scissors](https://github.com/lspohle/PRIVATE_rps)|Compete in Rock, Paper, Scissors | C        | macOS|✅      |
+|[Password Generator](https://github.com/lspohle/PRIVATE_password)|Generate your personal password |C        | macOS|✅     |
+|[Testernette](https://github.com/lspohle/PRIVATE_testernette_42)|Test program your 42 projects | C        | macOS|✅     |
